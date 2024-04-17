@@ -36,7 +36,7 @@ const songs = [
         name : "sumit-5",
         title: "On My Way",
         artist : "Alan Walker"
-    }
+    },
 ];
 
 let isPlaying = false;
