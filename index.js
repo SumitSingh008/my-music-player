@@ -32,6 +32,11 @@ const songs = [
         title: "Let Me Down",
         artist: "Alec Benjamin",
     },
+    {
+        name : "sumit-5",
+        title: "On My Way",
+        artist : "Alan Walker"
+    }
 ];
 
 let isPlaying = false;
